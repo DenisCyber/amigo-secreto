@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação web simples para organizar um jogo de Amigo Secreto. Ele permite que os usuários adicionem nomes de participantes, realizem o sorteio e vejam os resultados de forma fácil e interativa.
 
+Autor: Denis Alberto de Mesquita Feitosa
+E-mail: denisfeitosa2006@gmail.com
+
 ## Funcionalidades
 
 1. **Adicionar Participantes**:
