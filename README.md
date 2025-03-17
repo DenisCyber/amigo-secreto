@@ -1,6 +1,6 @@
-# amigo-secreto
+# Amigo Secreto Online
+
 Este projeto é uma aplicação web simples para organizar um jogo de Amigo Secreto. Ele permite que os usuários adicionem nomes de participantes, realizem o sorteio e vejam os resultados de forma fácil e interativa.
-Autor: Denis Feitosa
 
 ## Funcionalidades
 
@@ -39,3 +39,6 @@ Autor: Denis Feitosa
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+---
+
